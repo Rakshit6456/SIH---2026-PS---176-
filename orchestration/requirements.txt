@@ -10,9 +10,4 @@ shapely
 xarray
 netCDF4
 certifi
-openai-whisper
 gTTS
-transformers
-sentencepiece
-torch
-torchaudio
